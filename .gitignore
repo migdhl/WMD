@@ -1,4 +1,6 @@
-**/__pycache__
+**/_
+
+_pycache__
 *.pyc
 backup
 working
